@@ -1,0 +1,3620 @@
+Simulation at 2022-02-24
+Universe size 60 x 60
+Iteration:0
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       40
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:1
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       40
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:2
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       40
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:3
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       40
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:4
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          4       57
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:5
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       40
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:6
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       40
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:7
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       40
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:8
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       40
+Toad           0       0
+Beacon         2       40
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:9
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       42
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       28
+Toad           0       0
+Beacon         2       28
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:10
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       25
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       25
+Toad           0       0
+Beacon         2       50
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         4           
+---------------------------
+
+Iteration:11
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       25
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       25
+Toad           0       0
+Beacon         2       50
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         4           
+---------------------------
+
+Iteration:12
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       25
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       25
+Toad           0       0
+Beacon         2       50
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         4           
+---------------------------
+
+Iteration:13
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       25
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       25
+Toad           0       0
+Beacon         2       50
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         4           
+---------------------------
+
+Iteration:14
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:15
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:16
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        1       16
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:17
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       25
+Toad           0       0
+Beacon         2       50
+Glider         1       25
+LWspaceship    0       0
+---------------------------
+Total         4           
+---------------------------
+
+Iteration:18
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       25
+Toad           0       0
+Beacon         2       50
+Glider         1       25
+LWspaceship    0       0
+---------------------------
+Total         4           
+---------------------------
+
+Iteration:19
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       42
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         1       14
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:20
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:21
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        1       14
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         1       14
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:22
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:23
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:24
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          4       50
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         1       12
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:25
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:26
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:27
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:28
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:29
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:30
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:31
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:32
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:33
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:34
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          4       50
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         1       12
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:35
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:36
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:37
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:38
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       28
+Toad           0       0
+Beacon         2       28
+Glider         1       14
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:39
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          4       44
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       22
+Toad           0       0
+Beacon         2       22
+Glider         1       11
+LWspaceship    0       0
+---------------------------
+Total         9           
+---------------------------
+
+Iteration:40
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:41
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:42
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:43
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:44
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:45
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:46
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       25
+Beehive        1       12
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:47
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:48
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:49
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:50
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:51
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       25
+Beehive        1       12
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:52
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:53
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:54
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          4       44
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       11
+Toad           0       0
+Beacon         2       22
+Glider         2       22
+LWspaceship    0       0
+---------------------------
+Total         9           
+---------------------------
+
+Iteration:55
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:56
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:57
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:58
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:59
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:60
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:61
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:62
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:63
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:64
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          4       44
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       11
+Toad           0       0
+Beacon         2       22
+Glider         2       22
+LWspaceship    0       0
+---------------------------
+Total         9           
+---------------------------
+
+Iteration:65
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:66
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:67
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:68
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       25
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       25
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:69
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          4       40
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       20
+Toad           0       0
+Beacon         2       20
+Glider         2       20
+LWspaceship    0       0
+---------------------------
+Total         10           
+---------------------------
+
+Iteration:70
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:71
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:72
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:73
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:74
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:75
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:76
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       25
+Beehive        1       12
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:77
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:78
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:79
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:80
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:81
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       25
+Beehive        1       12
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:82
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:83
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:84
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          4       44
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       11
+Toad           0       0
+Beacon         2       22
+Glider         2       22
+LWspaceship    0       0
+---------------------------
+Total         9           
+---------------------------
+
+Iteration:85
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:86
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:87
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:88
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:89
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:90
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:91
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:92
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:93
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:94
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:95
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:96
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:97
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:98
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       28
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:99
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       22
+Toad           0       0
+Beacon         2       22
+Glider         2       22
+LWspaceship    0       0
+---------------------------
+Total         9           
+---------------------------
+
+Iteration:100
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:101
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:102
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:103
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:104
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:105
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:106
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        1       14
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:107
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:108
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:109
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:110
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:111
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        1       14
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:112
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:113
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:114
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:115
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:116
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:117
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:118
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:119
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:120
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:121
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:122
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:123
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:124
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:125
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:126
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:127
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:128
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       33
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:129
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       25
+Toad           0       0
+Beacon         2       25
+Glider         1       12
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:130
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:131
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:132
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:133
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:134
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:135
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:136
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        1       14
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:137
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:138
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:139
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:140
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:141
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        1       14
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:142
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:143
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:144
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:145
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:146
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:147
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:148
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:149
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:150
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:151
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:152
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:153
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:154
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:155
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:156
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:157
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:158
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       28
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:159
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       33
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        2       22
+Toad           0       0
+Beacon         2       22
+Glider         2       22
+LWspaceship    0       0
+---------------------------
+Total         9           
+---------------------------
+
+Iteration:160
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:161
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:162
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:163
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       20
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         1       20
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:164
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:165
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:166
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        1       14
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:167
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:168
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:169
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       28
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:170
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       20
+Toad           0       0
+Beacon         2       40
+Glider         2       40
+LWspaceship    0       0
+---------------------------
+Total         5           
+---------------------------
+
+Iteration:171
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        1       14
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:172
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:173
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:174
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:175
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:176
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:177
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:178
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:179
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:180
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:181
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:182
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:183
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         2       33
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:184
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       37
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:185
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           1       14
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:186
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           1       14
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:187
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           1       14
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:188
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       12
+Beehive        0       0
+Loaf           1       12
+Boat           0       0
+Tub            0       0
+Blinker        2       25
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:189
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          3       30
+Beehive        0       0
+Loaf           1       10
+Boat           0       0
+Tub            0       0
+Blinker        2       20
+Toad           0       0
+Beacon         2       20
+Glider         2       20
+LWspaceship    0       0
+---------------------------
+Total         10           
+---------------------------
+
+Iteration:190
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           1       14
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:191
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           1       14
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:192
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           1       14
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:193
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       16
+Beehive        0       0
+Loaf           1       16
+Boat           0       0
+Tub            0       0
+Blinker        1       16
+Toad           0       0
+Beacon         2       33
+Glider         1       16
+LWspaceship    0       0
+---------------------------
+Total         6           
+---------------------------
+
+Iteration:194
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           1       14
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:195
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       14
+Beehive        0       0
+Loaf           1       14
+Boat           0       0
+Tub            0       0
+Blinker        1       14
+Toad           0       0
+Beacon         2       28
+Glider         2       28
+LWspaceship    0       0
+---------------------------
+Total         7           
+---------------------------
+
+Iteration:196
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       12
+Beehive        1       12
+Loaf           1       12
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:197
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        2       25
+Loaf           1       12
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:198
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        2       25
+Loaf           1       12
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+
+Iteration:199
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          2       20
+Beehive        2       20
+Loaf           1       10
+Boat           0       0
+Tub            0       0
+Blinker        1       10
+Toad           0       0
+Beacon         2       20
+Glider         2       20
+LWspaceship    0       0
+---------------------------
+Total         10           
+---------------------------
+
+Iteration:200
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        2       25
+Loaf           1       12
+Boat           0       0
+Tub            0       0
+Blinker        1       12
+Toad           0       0
+Beacon         2       25
+Glider         2       25
+LWspaceship    0       0
+---------------------------
+Total         8           
+---------------------------
+

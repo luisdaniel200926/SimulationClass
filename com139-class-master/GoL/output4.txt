@@ -1,0 +1,128 @@
+Simulation at 2022-02-24
+Universe size 20 x 20
+Iteration:0
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          0       0
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        0       0
+Toad           0       0
+Beacon         0       0
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         0           
+---------------------------
+
+Iteration:1
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       100
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        0       0
+Toad           0       0
+Beacon         0       0
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         1           
+---------------------------
+
+Iteration:2
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       100
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        0       0
+Toad           0       0
+Beacon         0       0
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         1           
+---------------------------
+
+Iteration:3
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       100
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        0       0
+Toad           0       0
+Beacon         0       0
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         1           
+---------------------------
+
+Iteration:4
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       100
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        0       0
+Toad           0       0
+Beacon         0       0
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         1           
+---------------------------
+
+Iteration:5
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       100
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        0       0
+Toad           0       0
+Beacon         0       0
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         1           
+---------------------------
+
+Iteration:6
+---------------------------
+Name      Count      Percent
+---------------------------
+Block          1       100
+Beehive        0       0
+Loaf           0       0
+Boat           0       0
+Tub            0       0
+Blinker        0       0
+Toad           0       0
+Beacon         0       0
+Glider         0       0
+LWspaceship    0       0
+---------------------------
+Total         1           
+---------------------------
+
