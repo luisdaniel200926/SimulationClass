@@ -4,9 +4,9 @@ and the mike ash vulgarization https://mikeash.com/pyblog/fluid-simulation-for-d
 
 https://github.com/Guilouf/python_realtime_fluidsim
 """
+import random
 import numpy as np
 import math
-
 
 class Fluid:
 
@@ -161,33 +161,101 @@ class Fluid:
         return self.rotx, self.roty
 
 
+def velType(frame, vX, vY, type):
+    vel = [vX, vY]
+    if type == 'linear':
+        vel = [vX , vY ]
+    if type == 'rotatory':
+        vel = [np.cos( 0.1 * frame), np.sin( 0.1 * frame)]
+    if type == 'random':
+        global theta
+        rand = random.randint(0, 360)
+        vel = [vX * np.sin(rand), vY * np.cos(rand)]
+    return vel
+
+
+
 if __name__ == "__main__":
     try:
         import matplotlib.pyplot as plt
         from matplotlib import animation
+        from matplotlib.colors import ListedColormap, LinearSegmentedColormap
+        from matplotlib.patches import Rectangle
+        import json
+
+        file = open('input5.json')
+        input = json.load(file)
+        file.close()
 
         inst = Fluid()
 
-        def update_im(i):
+        objects = []
+        # We set the static objects in the plot
+        for i in input['objects']:
+            p = i.split()
+            x = int(p[0])
+            y = int(p[1])
+            v = input['objects'][i]
+            objects.append([x, y, v])
+
+        def update_im(frame):
             # We add new density creators in here
-            inst.density[14:17, 14:17] += 100  # add density into a 3*3 square
+            for i in input['density']:
+                point = i.split()
+                v = input['density'][i]
+                if i.find(':') > 0 :
+                    point0 = point[0].split(':')
+                    point1 = point[1].split(':')
+                    x0 = int(point0[0])
+                    x1 = int(point0[1])
+                    y0 = int(point1[0])
+                    y1 = int(point1[1])
+                    inst.density[x0:x1, y0:y1] += v
+                else:
+                    x = int(point[0])
+                    y = int(point[1])
+                    inst.density[x, y] += v
+
             # We add velocity vector values in here
-            inst.velo[20, 20] = [-2, -2]
+            for i in input['velocity']:
+                origin = i.split()
+                x = int(origin[0])
+                y = int(origin[1])
+                vector = input['velocity'][i].split()
+                xv = int(vector[0])
+                yv = int(vector[1])
+                aux = velType(frame,xv,yv,input['velocity Type'])
+                inst.velo[x, y] = aux
+
+            for o in objects:
+                x, y = o[0], o[1]
+                w, h = o[2][0], o[2][1]
+                #inst.density[y:y+h, x:x+w] = 0
+                inst.velo[y:y+h, x:x+w] = [0,0]
+                ax.add_patch(Rectangle((x, y), w, h, color=input['obj color']))
+
             inst.step()
             im.set_array(inst.density)
             q.set_UVC(inst.velo[:, :, 1], inst.velo[:, :, 0])
             # print(f"Density sum: {inst.density.sum()}")
             im.autoscale()
 
-        fig = plt.figure()
+        # Style up the Plot
+        
+        fig, ax = plt.subplots()
+        ax.set_title("Fluid Simulation")
+
+        
+
+        #fig = plt.figure()
 
         # plot density
-        im = plt.imshow(inst.density, vmax=100, interpolation='bilinear')
+        im = plt.imshow(inst.density, vmax=100, interpolation='bilinear', cmap=input['Color Scheme'])
 
         # plot vector field
         q = plt.quiver(inst.velo[:, :, 1], inst.velo[:, :, 0], scale=10, angles='xy')
-        anim = animation.FuncAnimation(fig, update_im, interval=0)
-        # anim.save("movie.mp4", fps=30, extra_args=['-vcodec', 'libx264'])
+        anim = animation.FuncAnimation(fig, update_im,interval=0)
+        #anim.save("Simul1.mp4", fps=30)
         plt.show()
 
     except ImportError:

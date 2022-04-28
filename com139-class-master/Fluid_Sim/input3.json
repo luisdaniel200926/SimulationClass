@@ -1,0 +1,16 @@
+{
+  "Color Scheme":"spring",
+  "velocity Type" : "rotatory",
+  "velocity": {
+      "5 50": "10 10",
+      "50 5": "10 10"
+  },
+  "density": {
+    "10:45 10:45": 150
+
+  },
+  "obj color":"#C70039",
+  "objects": {
+    "7 26": [40, 1]
+  }
+}

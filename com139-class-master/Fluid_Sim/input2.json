@@ -1,0 +1,17 @@
+{
+  "Color Scheme":"viridis",
+  "velocity Type" : "linear",
+  "velocity": {
+      "5 50": "5 -5"
+  },
+  "density": {
+    "10:45 10:45": 50
+    
+    
+  },
+  "obj color":"#FFFFFF",
+  "objects": {
+    "5 10": [0, 0],
+    "10 45": [0, 0]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Color Scheme":"plasma",
+  "velocity Type" : "linear",
+  "velocity": {
+      "30 3": "0 2"
+  },
+  "density": {
+    "25:35 5:45": 200
+  },
+  "obj color":"#000000",
+  "objects": {
+    "3 20": [40, 5],
+    "3 35": [40, 5]
+  }
+}

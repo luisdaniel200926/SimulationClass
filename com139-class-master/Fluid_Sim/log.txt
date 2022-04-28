@@ -1,0 +1,4 @@
+To solve the first challenge i just looked how inst.density and velocity received parameters and adapt them to be received from the input file
+The second challenge was a little harder as to how to change how the forces are over time so I added a parameter in the input file where you specify wich type you want between: linear,random,rotatory
+The third challenge I just added the need of a color shceme in the input file, it takes the name of color maps from the Matplot library as seen at https://matplotlib.org/stable/tutorials/colors/colormaps.html
+The fourth challenge to add objects you can add them to the input file as if adding rectangles giving the position and then the width and height desired.
